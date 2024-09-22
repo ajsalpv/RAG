@@ -1,0 +1,6 @@
+langchain
+langchain-community
+transformers
+faiss-cpu
+langchain_google_genai
+sentence_transformers
